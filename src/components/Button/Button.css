@@ -1,0 +1,17 @@
+button:disabled {
+    background-color: gray;
+    color: white;
+    cursor: none;
+}
+
+.primary {
+    background-color: orangered;
+    color: white;
+    padding: 4px 8px;
+}
+
+.secondary {
+    background-color: crimson;
+    color: white;
+    padding: 4px 8px;
+}
